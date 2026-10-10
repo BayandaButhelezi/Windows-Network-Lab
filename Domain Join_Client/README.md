@@ -1,4 +1,4 @@
-# Step 3: Client Domain Join
+# Step 2: Client Domain Join
 ## Overview
 
 This stage focuses on configuring the Windows client to communicate with the Windows Server domain controller and joining it to the Active Directory domain.
