@@ -1,4 +1,4 @@
-# Step 2: Server and Domain Setup
+# Step 1: Server and Domain Setup
 
 ## Overview
 This stage focuses on configuring Windows Server to act as a domain controller for the virtual network created in VirtualBox.
