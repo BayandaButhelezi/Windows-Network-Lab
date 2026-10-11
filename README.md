@@ -1,8 +1,9 @@
 # Windows-Network-Lab
 Documentation of a basic network environment using Oracle VirtualBox, Windows Server, and a Windows client machine.
 
-## Project Overview
+<img width="1920" height="1080" alt="MS Server" src="https://github.com/user-attachments/assets/cf46daa2-ebfd-4f11-a100-ff97e3c29bae" />
 
+## Project Overview
 This project involves building a basic network environment using Oracle VirtualBox, Windows Server, and a Windows client machine. The goal is to learn the fundamentals of Windows networking, server configuration, domain creation, and client integration within a virtual lab.
 
 ### Objectives
@@ -24,7 +25,7 @@ This project involves building a basic network environment using Oracle VirtualB
 - DNS (Domain Name System) – Will be used for domain name resolution.
 
 
-### Step 1: Virtual Machine Setup
+### Virtual Machine Setup
 
 The initial setup has been completed.
 
